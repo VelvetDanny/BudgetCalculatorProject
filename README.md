@@ -1,1 +1,1 @@
-# Lab-2-Personal-Budget
+# BudgetCalculator
